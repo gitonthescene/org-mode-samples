@@ -1,0 +1,6 @@
+* Heading 1
+  body
+** Subheading 1
+   sub body
+* Heading 2
+  body 2
