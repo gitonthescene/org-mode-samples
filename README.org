@@ -14,10 +14,10 @@
    effort, the hope is that the community will have the best ideas for how it should be organized.
    But I have a couple ideas.
 
-   For instance, current [[https://orgmode.org/worg/dev/org-syntax.html][spec]] for the org-mode grammar isn't terribly precise at points.  There
+   For instance, the current [[https://orgmode.org/worg/dev/org-syntax.html][spec]] for the org-mode grammar isn't terribly precise at points.  There
    appear to be things like skipping a heading level which is tolerated by the ~org-element.el~
    parser, but seemingly not allowed according to the spec.  I can imagine having a section of the
-   tests for /pathalogical cases/.  I can also imagine a section specifically for blocks.
+   tests for /pathalogical cases/.  I can also imagine a section specifically for say blocks.
    
 ** Um .. if it's not organized, then once again, why bother?
    You have to start somewhere!  :^)  I've tried to get the ball rolling and will add what I can
