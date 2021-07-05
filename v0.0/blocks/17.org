@@ -1,0 +1,4 @@
+* Export ASCII
+  #+begin_export ascii
+  Need to read the manual to understand these other types of blocks
+  #+end_export

@@ -1,0 +1,3 @@
+#+begin_example
+This is an example of an example block.  ( Need to read the manual... )
+#+end_example

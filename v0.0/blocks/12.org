@@ -1,0 +1,4 @@
+* Dynamic Block
+  #+BEGIN: MyName
+  A rose by any other name would smell as sweet
+  #+END:

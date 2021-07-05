@@ -1,0 +1,4 @@
+* Center Block
+  #+BEGIN_CENTER
+  By denying scientific principles, one may maintain any paradox.
+  #+END_CENTER
