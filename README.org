@@ -1,0 +1,39 @@
+* OrgMode sample snippets!
+** Why bother?
+   The intention of this repository is to build up copius examples of org-mode snippets to be used
+   for testing parsers of the grammar.  Ideally, this would be a place for developers and users to
+   share samples to demonstrate issues with whatever is being developed.  As the collection grows,
+   so would the set of examples available for testing hopefully improving the quality of tools built
+   on top of org-mode.
+
+   I can envision a user using the collection to try to narrow down a buggy case and/or point a
+   developer at an example to demonstrate an issue.  Or, absent an existing case, creating one.
+   
+** Okay ... but how is it organized?
+   At the moment it isn't very well organized. :^) Since this is envisioned to be a community
+   effort, the hope is that the community will have the best ideas for how it should be organized.
+   But I have a couple ideas.
+
+   For instance, current [[https://orgmode.org/worg/dev/org-syntax.html][spec]] for the org-mode grammar isn't terribly precise at points.  There
+   appear to be things like skipping a heading level which is tolerated by the ~org-element.el~
+   parser, but seemingly not allowed according to the spec.  I can imagine having a section of the
+   tests for /pathalogical cases/.  I can also imagine a section specifically for blocks.
+   
+** Um .. if it's not organized, then once again, why bother?
+   You have to start somewhere!  :^)  I've tried to get the ball rolling and will add what I can
+   think up, but for this to really be successful it's going to need community input.
+
+   Let's make this happen!
+
+** What's here so far?
+   My first stab at this is to have a single file with multiple snippets in it to make editing
+   easier.  Each snippet is separated by a null character (~^@~ in emacs).  I then used the
+   following zsh to split that up into separate files in a folder of the same name.
+
+   : $ c=0
+   : $ cat headings.org | while read  -d '' f; do printf "$f" > headings/$c.org; c=$((c+1)); done
+
+   If this proves a useful approach I'll look to automate this.
+
+** I guess this could be useful ...
+   Awesome!!  Welcome aboard!!!

@@ -1,0 +1,5 @@
+fore text
+* Heading 1
+  body
+** Subheading 1
+   sub body
