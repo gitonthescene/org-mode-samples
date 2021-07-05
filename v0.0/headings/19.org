@@ -1,0 +1,4 @@
+* Heading
+  I haven't used footnotes yet, so this section can use some work.
+  To footnotes need to be at the top level?
+** Footnotes
