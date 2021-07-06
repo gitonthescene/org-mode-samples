@@ -39,3 +39,60 @@
    Awesome!!  Welcome aboard!!!
 
    See Wiki for brainstorming ideas.
+
+* SOMETHING USEFUL!! (??)
+  Under ~/scripts~, there is a simple elisp script which can be run in batch mode to print the
+  structure of an org document as emacs sees it.  It can be run as follows:
+
+  : $ emacs --batch v0.0/headings/12.org --eval="(require 'package)" --eval="(package-initialize)" --eval="(require 'dash)" -l $(pwd)/scripts/dumptree.el
+  : (org-data
+  :  (section
+  :   (paragraph))
+  :  (headline
+  :   (section
+  :    (paragraph))
+  :   (headline
+  :    (section
+  :     (paragraph)))))
+  : $
+
+  With a little more scripting foo, you can run it on a bunch of files:
+
+    : $ seq 8 12 | while read num; do echo "== $num =="; emacs --batch v0.0/headings/$num.org --eval="(require 'package)" --eval="(package-initialize)" --eval="(require 'dash)" -l $(pwd)/scripts/dumptree.el; done
+    : == 8 ==
+    : (org-data
+    :  (headline
+    :   (section
+    :    (paragraph))
+    :   (headline)))
+    : == 9 ==
+    : (org-data
+    :  (section
+    :   (paragraph))
+    :  (headline
+    :   (section
+    :    (paragraph))
+    :   (headline)))
+    : == 10 ==
+    : (org-data
+    :  (headline
+    :   (headline
+    :    (section
+    :     (paragraph)))))
+    : == 11 ==
+    : (org-data
+    :  (headline
+    :   (headline
+    :    (section
+    :     (paragraph)))))
+    : == 12 ==
+    : (org-data
+    :  (section
+    :   (paragraph))
+    :  (headline
+    :   (section
+    :    (paragraph))
+    :   (headline
+    :    (section
+    :     (paragraph)))))
+    : $
