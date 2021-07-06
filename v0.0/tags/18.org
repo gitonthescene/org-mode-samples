@@ -1,0 +1,5 @@
+#+FILETAGS: :tag1:tag2:
+* Heading 1
+#+FILETAGS: :tag3:tag4:
+* Heading 2
+#+FILETAGS: :tag4:tag5:

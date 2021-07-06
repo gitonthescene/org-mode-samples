@@ -1,0 +1,4 @@
+* Heading 1
+#+FILETAGS: :tag1:tag2:
+* Heading 2
+** Subheading 2
