@@ -35,10 +35,24 @@
 
    If this proves a useful approach I'll look to automate this.
 
+** Aren't there similar projects to this one?
+   There are!  But what (barely) separates this from other projects is the explicit call for
+   community involvement.  Here are a few I know about but would love to hear of more.
+
+*** Exampmle collections
+   - [[https://github.com/novoid/github-orgmode-tests][org-mode-tests]]
+   - [[https://github.com/dfeich/org-babel-examples][org-babel-examples]]
+   - [[http://ehneilsen.net/notebook/orgExamples/org-examples.html][ehneilsen's examples and cookbook]]
+   - [[https://writequit.org/denver-emacs/presentations/files/example.org.html][writequit.org examples]]
+   
+*** Cheat sheets
+    - [[https://nhigham.com/2017/11/02/org-mode-syntax-cheat-sheet/][nhighan.com]]
+    - [[http://ergoemacs.org/emacs/emacs_org_markup.html][ergoemacs.com]]
+      
 ** I guess this could be useful ...
    Awesome!!  Welcome aboard!!!
 
-   See Wiki for brainstorming ideas.
+   See Wiki for brainstorming ideas.  Or maybe the Discussion section is better?
 
 * SOMETHING USEFUL!! (??)
 ** Dump tree
