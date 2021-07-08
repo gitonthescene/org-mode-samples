@@ -1,0 +1,5 @@
+#+begin_export html
+<span>
+* Strangely parsed as org syntax
+</span>
+#+end_export

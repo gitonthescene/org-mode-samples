@@ -1,0 +1,6 @@
+#+begin_src c
+  #include "stdio.h"
+  int main() {
+    exit(0)
+  }
+#+end_src

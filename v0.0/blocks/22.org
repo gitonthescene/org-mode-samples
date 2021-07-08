@@ -1,0 +1,4 @@
+#+begin_src js
+  var myfun = () => { console.log( "sample code" ); }
+  function myfun2() { console.log( "another function" ); }
+#+end_src
