@@ -1,0 +1,6 @@
+#+TODO: NEWTODO1
+#+TYP_TODO: NEWTODO2 NEWTODO3
+Can we mix and match?
+* NEWTODO1 My heading
+* NEWTODO2 My heading
+* NEWTODO3 My heading
