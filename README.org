@@ -39,7 +39,7 @@
    There are!  But what (barely) separates this from other projects is the explicit call for
    community involvement.  Here are a few I know about but would love to hear of more.
 
-*** Exampmle collections
+*** Example collections
    - [[https://github.com/novoid/github-orgmode-tests][org-mode-tests]]
    - [[https://github.com/dfeich/org-babel-examples][org-babel-examples]]
    - [[http://ehneilsen.net/notebook/orgExamples/org-examples.html][ehneilsen's examples and cookbook]]

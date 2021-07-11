@@ -1,6 +1,6 @@
-no|*bold*|spaces (with parens)
-no|/bold/|spaces (with parens)
-no|~bold~|spaces (with parens)
-no|_bold_|spaces (with parens)
-no|=bold=|spaces (with parens)
-no|+bold+|spaces (with parens)
+no{*bold*)spaces mismatched braces??
+no{/bold/)spaces mismatched braces??
+no{~bold~)spaces mismatched braces??
+no{_bold_)spaces mismatched braces??
+no{=bold=)spaces mismatched braces??
+no{+bold+)spaces mismatched braces??
