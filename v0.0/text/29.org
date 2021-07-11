@@ -1,0 +1,6 @@
+no*spaces*surrounding decoration
+no/spaces/surrounding decoration
+no~spaces~surrounding decoration
+no_spaces_surrounding decoration
+no=spaces=surrounding decoration
+no+spaces+surrounding decoration

@@ -1,0 +1,6 @@
+no|*bold*|spaces (nor do vertical bars)
+no|/bold/|spaces (nor do vertical bars)
+no|~bold~|spaces (nor do vertical bars)
+no|_bold_|spaces (nor do vertical bars)
+no|=bold=|spaces (nor do vertical bars)
+no|+bold+|spaces (nor do vertical bars)

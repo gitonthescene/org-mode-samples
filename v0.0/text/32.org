@@ -1,0 +1,6 @@
+no|*bold*|spaces (with parens)
+no|/bold/|spaces (with parens)
+no|~bold~|spaces (with parens)
+no|_bold_|spaces (with parens)
+no|=bold=|spaces (with parens)
+no|+bold+|spaces (with parens)

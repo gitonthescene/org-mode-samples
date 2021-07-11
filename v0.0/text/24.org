@@ -1,0 +1,1 @@
+[[https://example.com][linked text with *decorated* ~elements~]]

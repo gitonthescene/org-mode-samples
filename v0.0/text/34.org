@@ -1,0 +1,6 @@
+no[*bold*]spaces (brackets don't work)
+no[/bold/]spaces (brackets don't work)
+no[~bold~]spaces (brackets don't work)
+no[_bold_]spaces (brackets don't work)
+no[=bold=]spaces (brackets don't work)
+no[+bold+]spaces (brackets don't work)

@@ -1,0 +1,3 @@
+* Heading 1 with decorated "tags"  :*tag1*:
+* Heading 2 with decorated "tags"  :/tag1/:
+* Heading 3 with decorated "tags"  :+tag1+:

@@ -1,0 +1,6 @@
+no{*bold*}spaces (with braces)
+no{/bold/}spaces (with braces)
+no{~bold~}spaces (with braces)
+no{_bold_}spaces (with braces)
+no{=bold=}spaces (with braces)
+no{+bold+}spaces (with braces)

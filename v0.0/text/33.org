@@ -1,0 +1,6 @@
+no(*bold*}spaces mismatched braces??
+no(/bold/}spaces mismatched braces??
+no(~bold~}spaces mismatched braces??
+no(_bold_}spaces mismatched braces??
+no(=bold=}spaces mismatched braces??
+no(+bold+}spaces mismatched braces??
