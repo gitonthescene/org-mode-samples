@@ -1,0 +1,7 @@
+- item 1
+  1. subitem number 1
+  2. subitem number 2
+- [ ] empty checkbox
+- [X] checked checkbox
+- [x] not a checkbox?
+- [] not a checkbox

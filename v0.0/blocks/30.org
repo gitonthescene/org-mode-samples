@@ -1,3 +1,3 @@
 * Verbatim block
 :	This text is not
-:	produced verbatim
+:	produced verbatim because tabs and not spaces
