@@ -1,6 +1,6 @@
 no{*bold*)spaces mismatched braces??
-no{/bold/)spaces mismatched braces??
-no{~bold~)spaces mismatched braces??
-no{_bold_)spaces mismatched braces??
-no{=bold=)spaces mismatched braces??
-no{+bold+)spaces mismatched braces??
+no{/italics/)spaces mismatched braces??
+no{~code~)spaces mismatched braces??
+no{_underline_)spaces mismatched braces??
+no{=verbatim=)spaces mismatched braces??
+no{+strikethrough+)spaces mismatched braces??
