@@ -1,0 +1,6 @@
+no(*bold*spaces closed parens??
+no(/italics/spaces closed parens??
+no(~code~spaces closed parens??
+no(_underline_spaces closed parens??
+no(=verbatim=spaces closed parens??
+no(+strikethrough+spaces closed parens??

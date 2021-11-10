@@ -1,0 +1,6 @@
+no{*bold*spaces closed braces??
+no{/italics/spaces closed braces??
+no{~code~spaces closed braces??
+no{_underline_spaces closed braces??
+no{=verbatim=spaces closed braces??
+no{+strikethrough+spaces closed braces??

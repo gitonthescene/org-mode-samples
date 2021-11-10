@@ -31,7 +31,7 @@
    following zsh to split that up into separate files in a folder of the same name.
 
    : $ c=0
-   : $ cat headings.org | while read  -d '' f; do printf "$f" > headings/$c.org; c=$((c+1)); done
+   : $ cat headings.org | while read  -d '' f; do printf "%s" "$f" > headings/$c.org; c=$((c+1)); done
 
    If this proves a useful approach I'll look to automate this.
 

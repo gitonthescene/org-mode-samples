@@ -1,0 +1,5 @@
+no *bold * spaces before ending
+no /italics / spaces before ending
+no ~code ~ spaces before ending
+no _underline _ spaces before ending
+no +strikethrough + spaces before ending

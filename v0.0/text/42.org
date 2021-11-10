@@ -1,0 +1,14 @@
+Let's try */combos/*
+Let's try *bold /combos/ bold*
+Let's try /*combos*/
+Let's try /bold *combos* bold/
+Let's try */italics +combos+ italics/*
+Let's try *bold /italics +combos+ italics/ bold*
+Let's try */italics _combos_ italics/*
+Let's try *bold /italics _combos_ italics/ bold*
+Let's try *+combos+*
+Let's try *bold +combos+ bold*
+Let's try *_combos_*
+Let's try *bold _combos_ bold*
+Let's try *_underline /combos/ underline_*
+Let's try *bold _underline /combos/ underline_ bold*
