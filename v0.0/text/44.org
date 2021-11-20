@@ -1,0 +1,5 @@
+*nested *bold* example*?
+/nested /italics/ example/?
+~nested ~code~ example~?
+_nested _underline_ example_?
++nested +strikethrough+ example+?

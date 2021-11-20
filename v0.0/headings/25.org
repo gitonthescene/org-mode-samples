@@ -1,0 +1,2 @@
+The following is a heading with an empty title since there are spaces after the stars
+**

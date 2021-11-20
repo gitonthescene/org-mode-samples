@@ -1,0 +1,7 @@
+#+begin_comment
+Blocks with
+
+blank lines
+
+in them
+#+end_comment

@@ -1,0 +1,14 @@
+*bold*something
+*bold*'something
+*bold*~something
+*bold*|something
+*bold*&something
+*bold*%something
+*bold*"something
+*bold*!something
+*bold*:something
+*bold*;something
+*bold*`something
+*bold*@something
+*bold*something
+*bold*/something

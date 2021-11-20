@@ -1,7 +1,7 @@
 Let's try */combos/*
 Let's try *bold /combos/ bold*
 Let's try /*combos*/
-Let's try /bold *combos* bold/
+Let's try /italics *combos* italics/
 Let's try */italics +combos+ italics/*
 Let's try *bold /italics +combos+ italics/ bold*
 Let's try */italics _combos_ italics/*

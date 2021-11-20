@@ -1,0 +1,6 @@
+no}*bold*)spaces really mismatched braces??
+no{/italics/(spaces really mismatched braces??
+no{~code~{spaces reall mismatched braces??
+no)_underline_)spaces really mismatched braces??
+no(=verbatim=(spaces really mismatched braces??
+no}+strikethrough+{spaces really mismatched braces??

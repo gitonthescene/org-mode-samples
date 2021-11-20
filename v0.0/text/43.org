@@ -1,0 +1,10 @@
+*bold on
+ two lines*
+/italics on
+ two lines/
+~code on
+ two lines~
+_underline on
+ two lines_
++strikethrough on
+ two lines+

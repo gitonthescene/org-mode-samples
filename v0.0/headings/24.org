@@ -1,0 +1,2 @@
+The following is not a heading since there are no spaces after the stars
+**
