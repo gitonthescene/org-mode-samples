@@ -1,0 +1,4 @@
+#+begin_src sh
+  *styled text* in src block
+  This /might/ depend on the kind of source.
+#+end_src

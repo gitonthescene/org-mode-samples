@@ -1,0 +1,3 @@
+#+begin_export html
+*styled text* in html block
+#+end_export

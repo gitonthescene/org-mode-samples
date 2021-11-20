@@ -1,0 +1,3 @@
+#+begin_example
+/styled text/ in example block
+#+end_example

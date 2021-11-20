@@ -1,0 +1,4 @@
+#+begin_export ascii
+*styled text* in export block
+This /might/ depend on the kind of export.
+#+end_export

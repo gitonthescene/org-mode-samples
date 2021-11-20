@@ -1,0 +1,3 @@
+#+begin_comment
+/styled text/ in comment block
+#+end_comment

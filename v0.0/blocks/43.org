@@ -1,0 +1,3 @@
+#+begin_quote
+/styled text/ in quote block
+#+end_quote

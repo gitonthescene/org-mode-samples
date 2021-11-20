@@ -1,0 +1,3 @@
+#+begin_export latex
+*styled text* in latex block
+#+end_export
